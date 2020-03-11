@@ -1,9 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema",
-  "name": "broadcaster-colossus-adapter",
+  "name": "broadcaster-adapter",
   "vendor": "vtex",
   "version": "0.0.0",
-  "title": "Broadcaster Colossus Adapter",
+  "title": "Broadcaster Adapter",
   "description": "Reference app for VTEX IO Services",
   "builders": {
     "node": "6.x",
